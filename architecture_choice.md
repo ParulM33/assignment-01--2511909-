@@ -1,0 +1,2 @@
+## Architecture Recommendation
+Use lakehouse.
